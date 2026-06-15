@@ -1,18 +1,18 @@
-# DevOps Learning Journey 🚀
+# DevOps Learning Journey 
 
 Hi, I'm **Shraddha Dhuriya**, a final-year IT Engineering student learning DevOps from scratch.
 
-## 🚀 Technologies I'm Learning
+## Technologies I'm Learning
 
-* Python 🐍
-* Git & GitHub 🌳
-* Linux 🐧
-* Docker 🐳
-* AWS ☁️
-* CI/CD 🔄
-* Kubernetes ☸️
+* Python 
+* Git & GitHub 
+* Linux 
+* Docker 
+* AWS 
+* CI/CD 
+* Kubernetes 
 
-## 📚 Python Programs Completed
+## Python Programs Completed
 
 * Hello World
 * Calculator
@@ -22,7 +22,7 @@ Hi, I'm **Shraddha Dhuriya**, a final-year IT Engineering student learning DevOp
 * Multiplication Table
 * Functions
 
-## 🎯 Goal
+## Goal
 
 To become a **DevOps Engineer** by building projects and learning through hands-on practice.
 
