@@ -31,4 +31,5 @@ To become a **DevOps Engineer** by building projects and learning through hands-
 Python Basics Completed
 Git & GitHub Basics Completed
 Linux Learning In Progress
-Docker & AWS Coming Soon
+Docker & AWS going to start soon
+
