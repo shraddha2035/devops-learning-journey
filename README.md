@@ -26,9 +26,9 @@ Hi, I'm **Shraddha Dhuriya**, a final-year IT Engineering student learning DevOp
 
 To become a **DevOps Engineer** by building projects and learning through hands-on practice.
 
-## 📈 Current Progress
+## Current Progress
 
-✅ Python Basics Completed
-✅ Git & GitHub Basics Completed
-🚧 Linux Learning In Progress
-🚧 Docker & AWS Coming Soon
+Python Basics Completed
+Git & GitHub Basics Completed
+Linux Learning In Progress
+Docker & AWS Coming Soon
